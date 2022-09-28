@@ -9,7 +9,7 @@ img{
     width: 500px;
     background: gainsboro;
     padding: 50px;
-    border: 20px, red;
+    border: black 10px solid;
 }
 #spanId{
     font-size: 18px;
